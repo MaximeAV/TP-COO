@@ -1,7 +1,5 @@
 # TP n°2 COO - ISEN AP5
-
 # Réponses aux questions du TP
-# ----------------------------
 
 ## Question 2
 
